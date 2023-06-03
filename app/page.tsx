@@ -24,13 +24,13 @@ export default function Home() {
       </div>
       <div className="bg-secondary1 py-20"></div>
       <div className="bg-primary2 py-6">
-        <h2 className="text-center text-lg text-secondary1">
+        <h2 className="text-center text-xl text-secondary1">
           Tell us about your journey in tech, sign up today!
         </h2>
       </div>
       <div className="">
         <h2 className="text-lg text-center my-4 text-secondary1">
-          Recent Posts
+          Recent Blog Posts
         </h2>
       </div>
     </main>
